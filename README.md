@@ -48,16 +48,6 @@ npm run preview
 npm run check
 ```
 
-## Variáveis de ambiente
-
-Crie um arquivo `.env` na raiz se quiser habilitar GA4:
-
-```env
-VITE_GA_ID=G-XXXXXXXXXX
-```
-
-Sem `VITE_GA_ID`, o site funciona normalmente e o analytics não é inicializado.
-
 ## Estrutura de pastas
 
 ```text
